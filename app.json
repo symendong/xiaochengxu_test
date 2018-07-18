@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#4F4F4F",
+    "navigationBarTextStyle": "#fff",
+    "navigationBarTitleText": "小程序开发",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#eef2f8"
+  },
+  "tabBar": {
+    "color": "#CCCCCC",
+    "selectedColor": "#00CD00",
+    "backgroundColor": "#F8F8FF",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/home/home_hui.png",
+        "selectedIconPath": "images/home/home.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "images/home/rz_hui.png",
+        "selectedIconPath": "images/home/rz.png"
+      }
+    ]
+  }
+}
