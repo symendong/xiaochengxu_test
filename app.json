@@ -28,8 +28,8 @@
       {
         "pagePath": "pages/logs/logs",
         "text": "日志",
-        "iconPath": "images/home/rz_hui.png",
-        "selectedIconPath": "images/home/rz.png"
+        "iconPath": "images/home/system_hui.png",
+        "selectedIconPath": "images/home/system.png"
       }
     ]
   }
